@@ -48,3 +48,16 @@ git log
 
 git log --oneline
 	shows us all the commits on one line
+
+===== Git Summary
+============
+
+Commit:
+A noun - the final change that goes into the "metal box"
+We have committed twice, OR we made 2 commits.
+
+Basic git workflow:
+
+1. Change
+2. Stage (Add)
+3. Finalise (Commit)
